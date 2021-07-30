@@ -1,3 +1,3 @@
- COVID19Biomarkers  <- function(){
+biomarkers  <- function(){
                                 shiny::runApp(appDir = system.file('cd',package = 'COVID19Biomarkers'),launch.browser = TRUE)
         }
